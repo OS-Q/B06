@@ -23,7 +23,7 @@
     "simba",
     "pumbaa"
   ],
-  "name": "MakerAsia Nano32",
+  "name": "Nano32",
   "upload": {
     "flash_size": "4MB",
     "maximum_ram_size": 327680,
@@ -31,6 +31,6 @@
     "require_upload_port": true,
     "speed": 460800
   },
-  "url": "http://iot-bits.com/nano32-esp32-development-board",
-  "vendor": "MakerAsia"
+  "url": "http://www.OS-Q.com/B06",
+  "vendor": "OS-Q"
 }
